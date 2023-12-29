@@ -1,0 +1,22 @@
+#+BEGIN_COMMENT
+.. title: Diet Links
+.. slug: diet-links
+.. date: 2023-12-28 16:28:59 UTC-08:00
+.. tags: links,diet
+.. category: Diet
+.. link: 
+.. description: 
+.. type: text
+
+#+END_COMMENT
+#+OPTIONS: ^:{}
+#+TOC: headlines 3
+
+* Guidelines
+
+- [[https://resources.bestfriends.org/article/rabbit-diet-what-feed-pet-bunny][Best Friends Animal Society]]: List of vegetables and general serving guidelines (much lower than Bunny Horde)
+- [[https://bunnylady.com/rabbit-diet/][Bunny Lady]]: List by weight.
+  
+* Calculator
+
+ - [[https://bunnyhorde.com/rabbits-diet-calculator/][Bunny Horde]]: Bunny Horde diet calculator and guidelines.

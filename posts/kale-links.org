@@ -1,0 +1,24 @@
+#+BEGIN_COMMENT
+.. title: Kale Links
+.. slug: kale-links
+.. date: 2023-12-28 16:49:15 UTC-08:00
+.. tags: links,diet
+.. category: Diet
+.. link: 
+.. description: 
+.. type: text
+
+#+END_COMMENT
+#+OPTIONS: ^:{}
+#+TOC: headlines 3
+
+* Links
+ - [[https://bunnyasapet.com/can-rabbits-eat-kale/][Bunny As A Pet- Can Rabbits Eat Kale?]]: This one suggests it can cause goiter and kidney stones...
+ - [[https://perfectrabbit.com/is-kale-good-for-rabbits/][Perfect Rabbit]]: /Is Kale Good For Rabbits?/
+   + [[https://perfectrabbit.com/can-rabbits-have-kale/][Can Rabbits Have Kale?]]: Another article on the same site.
+
+ - [[https://therabbitguide.com/can-rabbits-eat-kale/][The Rabbit Guide - Can Rabbits Eat Kale?]]: This one also says to limit kale but then says the amount should be one or two cups a day per 3 or 4 pounds body weight...
+ - [[https://rabbits.life/can-rabbits-eat-kale/][Rabbits Life - Can Rabbits Eat Kale?]]: A slightly less cautionary article.
+ - [[https://rabbitinsider.com/can-rabbits-eat-kale/][Rabbit Insider - Can Rabbits Eat Kale?]]: Another one saying to limit kale.
+ - [[https://rabbitive.com/can-rabbits-eat-kale/][Rabbitive - Can Rabbits Eat Kale?]]: Another one saying to limit to a couple of times a week.
+ - [[https://rabbitmag.com/can-rabbits-eat-kale/][Rabbit Mag - Can Rabbits Eat Kale?]]: This one, weirdly, says that you should only give cooked kale to rabbits...
